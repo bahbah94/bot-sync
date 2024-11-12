@@ -5,9 +5,9 @@
 This bot monitors a contract at `0xA7F42ff7433cB268dD7D59be62b00c30dEd28d3D` (Sepolia) for `Ping()` events and responds with `pong()` transactions.
 
 ## Bot Details
-- **Bot Address**: 0xEDbaE649efbCb56979C30a32701b1fE801168B74
-- **Starting Block**: 7035885
-- **GraphQL Endpoint**: https://your-app-url:42069/graphql
+- **Bot Address**: 0xedbae649efbcb56979c30a32701b1fe801168b74
+- **Starting Block**: 7049025
+- **GraphQL Endpoint**: https://bot-sync-production-bae4.up.railway.app/
 
 ## Features
 - Automatically responds to Ping events with Pong transactions
